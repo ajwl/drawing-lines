@@ -5,7 +5,15 @@ To create some code that looks as if it's doodling, by using the js canvas.
 ## Aim 2
 To experiment and `doodle` with the code. Instead of writing code to meet a specific goal you could instead experiment with and tweak your code and see where it leads you.
 
+## Info
 You can try and meet both aims or just one - it's up to you. The main goal is to just have *__fun__*.
+I have included a starting point for everyone - you can use it or start from scratch. The javascript includes two functions - one which will draw a point and one which will draw a circle. Feel free to ask me if you don't understand how part of the code works.
+
+## Useful links
+[A cheat sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+[W3 documentation](https://www.w3schools.com/html/html5_canvas.asp)
+[W3 tutorial](https://www.w3schools.com/graphics/canvas_intro.asp)
+
 
 ## Challenges
 If you're stuck for ideas, here are a few to help you get started:
