@@ -5,7 +5,7 @@ To create some code that looks as if it's doodling, by using the js canvas.
 ## Aim 2
 To experiment and `doodle` with the code. Instead of writing code to meet a specific goal you could instead experiment with and tweak your code and see where it leads you.
 
-You can try and meet both aims or just one - it's up to you. The main goal is to just have *__fun__*
+You can try and meet both aims or just one - it's up to you. The main goal is to just have *__fun__*.
 
 ## Challenges
 If you're stuck for ideas, here are a few to help you get started:
