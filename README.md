@@ -21,8 +21,8 @@ If you're stuck for ideas, here are a few to help you get started:
 + Can you get it to begin a doodle when and where you click the canvas?
 + Can you add some colour to your doodle?
 + Could you make the line colour cycle through the rainbow as it draws?
-+ Do you know anything about polar coordinates? The code is currently drawing it is currently drawing `r = the radius you passed into the function`. Could you adapt the current code to draw different polar equations? e.g. `r = cos(4θ)`
-__Hint:__ to convert from a polar equation to a cartesian equation `x = r ∙ cos(θ)` and `y = r ∙ sin(θ)`
++ Do you know anything about polar coordinates? The code is currently drawing the equation `r = the radius you passed into the function`. Could you adapt the current code to draw different polar equations? e.g. `r = cos(4θ)`
+__Hint:__ to convert from a polar equation to a cartesian equation `x = r ∙ cos(θ)` and `y = r ∙ sin(θ)` and the variable r in the code is being used to scale the graph.
 
 
 
