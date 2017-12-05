@@ -1,7 +1,13 @@
 
 function runCode2(){
-	const canvas = document.getElementById("doodleSpace1");
+	const canvas = document.getElementById("doodleSpace2");
 	const ctx = canvas.getContext("2d");
+
+	function drawpoint(x, y) {
+		ctx.moveTo(x, y);
+		ctx.lineTo(x + 1, y + 1);
+		ctx.stroke();
+	};
 
 
 	  function drawLine(startX, startY){

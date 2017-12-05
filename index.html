@@ -2,20 +2,30 @@
 <html>
 <head>
 	<title>Drawing lines</title>
+	<style>
+		button {
+			display: block;
+			margin: .5em 0;
+		}
+	</style>
 </head>
 <body>
+	<p>Blog post: <a href="annaleach.net">annaleach.net</a> | Code: <a href="ahttps://github.com/ajwl/drawing-lines">github</a> </p>
+	<p><i>Refresh to clear</i></p>
 
 	<h2>1. Single wavering line</h2>
-	<canvas id="doodleSpace1" width="500" height="100" style="border:1px solid #000000;"></canvas>
 	<button onClick="runCode1()">Run</button>
+	<canvas id="doodleSpace1" width="500" height="50" style="border:1px solid #000000;"></canvas>
 
 	<h2>2. Lots of lines</h2>
-	<canvas id="doodleSpace2" width="500" height="500" style="border:1px solid #000000;"></canvas>
 	<button onClick="runCode2()">Run</button>
+	<canvas id="doodleSpace2" width="500" height="300" style="border:1px solid #000000;"></canvas>
 
 	<h2>3. Sequential lines with different colours</h2>
-	<canvas id="doodleSpace3" width="500" height="500" style="border:1px solid #000000;"></canvas>
 	<button onClick="runCode3()">Run</button>
+	<canvas id="doodleSpace3" width="500" height="500" style="border:1px solid #000000;"></canvas>
+
+	<p>Based on an original <a href="https://github.com/MiniGirlGeek/code_doodling.git">Mozfest tutorial by @minigirlgeek</a></p>
 
 	<script src="js/doodle1.js"></script>
 	<script src="js/doodle2.js"></script>
